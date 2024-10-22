@@ -1,0 +1,49 @@
+body {
+  background-color: #e9eed9;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  text-align: #333;
+  background-color: #dddddd;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  background-color: #dddddd;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #ff8a8a;
+}
+/* icons */
+.fa-whatsapp {
+  color: black;
+}
+.fa-whatsapp:hover {
+  color: green;
+}
+
+.fa-instagram {
+  color: black;
+}
+.fa-instagram:hover {
+  color: green;
+}
+.fa-facebook {
+  color: black;
+}
+.fa-facebook:hover {
+  color: green;
+}
+/* end of icons */
