@@ -8,8 +8,8 @@ ul {
   margin: 0px;
   padding: 0px;
   overflow: hidden;
-  text-align: #333;
-  background-color: #dddddd;
+  color: white; /* Correction ici */
+  background-color: #999;
 }
 
 li {
@@ -20,15 +20,15 @@ li a {
   display: block;
   text-align: center;
   padding: 14px 16px;
-  background-color: #dddddd;
   text-decoration: none;
 }
 li a:hover {
   background-color: #ff8a8a;
 }
+
 /* icons */
 .fa-whatsapp {
-  color: black;
+  color: rgb(0, 0, 0);
 }
 .fa-whatsapp:hover {
   color: green;
