@@ -39,4 +39,3 @@ function Paragrraph() {
   paragraphe.style.display = "block";
   document.getElementById("afficher").innerHTML = "";
 }
-// jeux ;
